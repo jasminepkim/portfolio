@@ -1,3 +1,3 @@
 # My Portfolio
 
-My portfolio was built with love with Google Materialize CSS' parallax template.  Enjoy!
+My portfolio was built with love using the beautiful Materialize parallax template.  Enjoy!
